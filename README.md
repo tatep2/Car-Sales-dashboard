@@ -43,7 +43,7 @@ Features:
 
 Screenshot:
   https://github.com/tatep2/Car-Sales-dashboard/blob/main/Car%20Sales%20Performance%20Overview.png
-  
+  https://github.com/tatep2/Car-Sales-dashboard/blob/main/Individual%20Car%20Sales%20Overview.png
 
    
    
