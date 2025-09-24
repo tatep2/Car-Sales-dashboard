@@ -28,7 +28,7 @@ Features:
 2. Goal of the dashboard : Build a dynamic Power BI dashboard that provides real-time visibility into sales metrics for data-driven decision making.
    This dashboard gives a high-level summary of overall sales performance:
 
-   3.KPIs:
+  3.KPIs:
 
      YTD total sales ($371.2M)
   
@@ -54,7 +54,7 @@ Features:
 
     Easily searchable and sortable detailed sales records
 
-7. Business Impact :
+6. Business Impact :
 
    Enables real-time monitoring of sales performance
    
@@ -62,7 +62,7 @@ Features:
    
    Supports forecasting & demand planning for smarter procurement.
 
-Screenshot:
+7. Screenshot:
   https://github.com/tatep2/Car-Sales-dashboard/blob/main/Car%20Sales%20Performance%20Overview.png
   
   https://github.com/tatep2/Car-Sales-dashboard/blob/main/Individual%20Car%20Sales%20Overview.png
