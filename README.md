@@ -28,15 +28,15 @@ Features:
 2. Goal of the dashboard : Build a dynamic Power BI dashboard that provides real-time visibility into sales metrics for data-driven decision making.
    This dashboard gives a high-level summary of overall sales performance:
 
-  3.KPIs:
+3.KPIs:
 
-     YTD total sales ($371.2M)
+   YTD total sales ($371.2M)
   
-    YTD average price ($28K)
+   YTD average price ($28K)
   
-     YTD total cars sold (13.26K)
+   YTD total cars sold (13.26K)
   
-     MTD comparisons for sales, price, and units sold
+   MTD comparisons for sales, price, and units sold
 
 4. Visual Insights:
 
