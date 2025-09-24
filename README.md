@@ -42,6 +42,7 @@ Features:
    Supports forecasting & demand planning for smarter procurement.
 
 Screenshot:
+  https://github.com/tatep2/Car-Sales-dashboard/blob/main/Car%20Sales%20Performance%20Overview.png
   
 
    
