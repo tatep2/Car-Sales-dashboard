@@ -28,30 +28,34 @@ Features:
 2. Goal of the dashboard : Build a dynamic Power BI dashboard that provides real-time visibility into sales metrics for data-driven decision making.
    This dashboard gives a high-level summary of overall sales performance:
 
-3.KPIs:
+   3.KPIs:
 
-  YTD total sales ($371.2M)
+     YTD total sales ($371.2M)
   
-  YTD average price ($28K)
+    YTD average price ($28K)
   
-  YTD total cars sold (13.26K)
+     YTD total cars sold (13.26K)
   
-  MTD comparisons for sales, price, and units sold
+     MTD comparisons for sales, price, and units sold
 
 4. Visual Insights:
-  Weekly sales trend (spikes & dips in sales activity)
 
-  Sales by Body Style (SUV, Hatchback, Sedan, etc.)
-  
-  Sales by Color (Pale White, Black, Red)
-  
-  Regional sales performance (cars sold by dealer region) 
-  
-  Company-wise sales trend (avg. price, units sold, total sales, % of market share)
+     Weekly sales trend (spikes & dips in sales activity)
 
-6. Data Table View: Easily searchable and sortable detailed sales records
+     Sales by Body Style (SUV, Hatchback, Sedan, etc.)
+  
+     Sales by Color (Pale White, Black, Red)
+  
+     Regional sales performance (cars sold by dealer region) 
+  
+     Company-wise sales trend (avg. price, units sold, total sales, % of market share)
+
+5. Data Table View :
+
+    Easily searchable and sortable detailed sales records
 
 7. Business Impact :
+
    Enables real-time monitoring of sales performance
    
    Highlights best-performing products & regions for targeted strategies.
