@@ -8,6 +8,7 @@ This interactive Power BI dashboard designed to analyze car sales performance ac
 It helps stakeholders track KPIs, identify trends, and make data-driven decisions with both summary and detailed sales views.
 
 Tools:
+
 Power BI – Dashboard development & visualization
 Excel / CSV – Data source
 DAX (Data Analysis Expressions) – Calculations & measures
@@ -15,11 +16,11 @@ Power Query – Data cleaning and transformation
 Matrix - Dashboard development
 
 Features:
+
 1. Business Problem : Difficulty in tracking overall sales performance, identifying trends, and comparing KPIs across regions, dealers, and car models.
 
 2. Goal of the dashboard : Build a dynamic Power BI dashboard that provides real-time visibility into sales metrics for data-driven decision making.
-
-    This dashboard gives a high-level summary of overall sales performance:
+   This dashboard gives a high-level summary of overall sales performance:
 
 3.KPIs:
   YTD total sales ($371.2M)
